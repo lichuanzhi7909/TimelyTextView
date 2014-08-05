@@ -1,3 +1,5 @@
+数字动态变化控件依赖nineoldandroids
+==============
 TimelyTextView
 ==============
 
